@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+<body>
+    <div>
+        <div style="width: 30%; float: left; padding: 20px; box-sizing: border-box;">
+            <div style="text-align: center;">
+                <img src="resumeimg.jpeg" alt="Profile Picture" style="width: 100%; 	border-radius: 50%; margin-bottom: 20px;">
+            </div>
+            <div>
+                <h3>Contact</h3>
+                <p>91+ 8459602527</p>
+                <p>vu4f2223083@pvppcoe.ac.in</p>
+                <p>panajabrao Deshmukh boys hostel mumbai </p>
+            </div>
+            <div>
+                <h3>Education</h3>
+                <table style="width: 100%; border-collapse: collapse;">
+                    <thead>
+                        <tr>
+                            <th style="border: 1px solid #ddd; padding: 8px;">Year</th>
+                            <th style="border: 1px solid #ddd; padding: 	8px;">School/College</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="border: 1px solid #ddd; padding: 8px;">2015 - 2020</td>
+                            <td style="border: 1px solid #ddd; padding: 8px;">gurukul vidhalaya dharmabad </td>
+                        </tr>
+                        <tr>
+                            <td style="border: 1px solid #ddd; padding: 8px;">2020 - 2022</td>
+                            <td style="border: 1px solid #ddd; padding: 8px;">Lal bahadur shastri mahavidhalaya dharmbad </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div>
+                <h3>Skills</h3>
+                <ul>
+                    <li>Project Management</li>
+                    <li>Teamwork</li>
+                    <li>Time Management</li>
+                    <li>Kotlin (Basic)</li>
+                    <li>C# (Basic)</li>
+                    <li>Unity Engine (Basic)</li>
+                    <li>Unreal Engine (Basic)</li>
+                </ul>
+            </div>
+            <div>
+                <h3>Languages</h3>
+                <ul>
+                    <li>English</li>
+                    <li>Marathi</li>
+                    <li>Hindi</li>
+                </ul>
+            </div>
+        </div>
+        <div style="width: 70%; float: right; padding: 20px; box-sizing: border-box;">
+            <h1>MAHESH GOVIND JADHAV </h1>
+            <div>
+                <h3>Profile</h3>
+                <p>I am an IT student with a strong passion for game development. Despite it not being a widely recognized field in India, I am determined to make a significant impact and carve out a successful career in this industry. My goal is to create high-quality games that gain recognition worldwide. I am committed to continuously learning and growing in this field to achieve my dream of putting both my name and my country on the global map.</p>
+            </div>
+            <div>
+                <h3>Computer Languages</h3>
+                <p><strong>C (Programming Language)</strong></p>
+                <ul>
+                    <li>Exploring the variants of C (C#, C++).</li>
+                    <li>Tried Unity Game Engine with C#.</li>
+                    <li>Made a small scene in Unreal Game Engine with C++.</li>
+                </ul>
+                <p><strong>Java (Programming Language)</strong></p>
+                <ul>
+                    <li>Exploring Advanced Java & DSA with Java.</li>
+                    <li>Implemented a basic application using Java.</li>
+                    <li>Developed a Weather Forecast project with a team.</li>
+                </ul>
+                <p><strong>Python (Programming Language)</strong></p>
+                <ul>
+                    <li>Exploring Game Development with Python using 'PyGame'.</li>
+                    <li>Developed a Gesture Based Interface project with a team.</li>
+                </ul>
+            </div>
+            <div>
+                <h3>Extras</h3>
+                <p><strong>Kotlin</strong></p>
+                <ul>
+                    <li>Familiar with basics of Kotlin.</li>
+                </ul>
+                <p><strong>Unity Engine</strong></p>
+                <ul>
+                    <li>Familiar with basics of making a scene.</li>
+                </ul>
+                <p><strong>Unreal Engine</strong></p>
+                <ul>
+                    <li>Familiar with sprites and flipbooks to develop character 	animation.</li>
+                </ul>
+            </div>
+            <div>
+                <h3>Interests</h3>
+                <p><strong>Gaming</strong></p>
+                <ul>
+                    <li>Fond and familiar with many video games</li>
+                </ul>
+                <p><strong>Augmented Reality/Virtual Reality</strong></p>
+                <ul>
+                    <li>High interest in learning AR/VR Space</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
